@@ -21,4 +21,4 @@ To work on this project, you'll need:
 To get started with this project, clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/html-web-project.git
+git clone https://github.com/Dheeja/Amigo-Websit.git
